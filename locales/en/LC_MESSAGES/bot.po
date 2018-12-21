@@ -143,4 +143,4 @@ msgstr "ultraballs"
 
 #: src/trainerheart/pokedex/item_aliases.py:56
 msgid "ultra balls"
-msgstr "ultra balls"
+msgstr "ultra ball"
