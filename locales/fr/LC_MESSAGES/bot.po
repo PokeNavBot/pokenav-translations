@@ -19,7 +19,7 @@ msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:11
 msgid "silver pinap berry"
-msgstr "foo"
+msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:12
 msgid "silver pinap berries"
