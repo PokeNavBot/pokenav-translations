@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-21 10:28-0500\n"
+"POT-Creation-Date: 2018-12-21 10:31-0500\n"
 "PO-Revision-Date: 2018-12-21 10:19-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -105,18 +105,42 @@ msgstr ""
 msgid "poke ball"
 msgstr ""
 
-#: src/trainerheart/pokedex/item_aliases.py:45
+#: src/trainerheart/pokedex/item_aliases.py:43
+msgid "pokeballs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:44
+msgid "poke balls"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:47
 msgid "greatball"
 msgstr ""
 
-#: src/trainerheart/pokedex/item_aliases.py:46
+#: src/trainerheart/pokedex/item_aliases.py:48
 msgid "great ball"
 msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:49
-msgid "ultraball"
+msgid "greatballs"
 msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:50
+msgid "great balls"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:53
+msgid "ultraball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:54
 msgid "ultra ball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:55
+msgid "ultraballs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:56
+msgid "ultra balls"
 msgstr ""
