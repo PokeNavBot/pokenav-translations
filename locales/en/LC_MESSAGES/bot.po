@@ -106,14 +106,12 @@ msgid "poke ball"
 msgstr "poke ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:43
-#, fuzzy
 msgid "pokeballs"
-msgstr "pokeball"
+msgstr "pokeballs"
 
 #: src/trainerheart/pokedex/item_aliases.py:44
-#, fuzzy
 msgid "poke balls"
-msgstr "poke ball"
+msgstr "poke balls"
 
 #: src/trainerheart/pokedex/item_aliases.py:47
 msgid "greatball"
@@ -124,14 +122,12 @@ msgid "great ball"
 msgstr "great ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:49
-#, fuzzy
 msgid "greatballs"
-msgstr "greatball"
+msgstr "greatballs"
 
 #: src/trainerheart/pokedex/item_aliases.py:50
-#, fuzzy
 msgid "great balls"
-msgstr "great ball"
+msgstr "great balls"
 
 #: src/trainerheart/pokedex/item_aliases.py:53
 msgid "ultraball"
@@ -142,11 +138,9 @@ msgid "ultra ball"
 msgstr "ultra ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:55
-#, fuzzy
 msgid "ultraballs"
-msgstr "ultraball"
+msgstr "ultraballs"
 
 #: src/trainerheart/pokedex/item_aliases.py:56
-#, fuzzy
 msgid "ultra balls"
-msgstr "ultra ball"
+msgstr "ultra balls"
