@@ -1,0 +1,146 @@
+# Danish translations for PACKAGE package.
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-21 10:31-0500\n"
+"PO-Revision-Date: 2018-12-21 10:27-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/trainerheart/pokedex/item_aliases.py:11
+msgid "silver pinap berry"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:12
+msgid "silver pinap berries"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:13
+msgid "silver pinap"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:14
+msgid "silver pinaps"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:17
+msgid "golden razz berry"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:18
+msgid "golden razz berries"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:19
+msgid "golden razz"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:20
+msgid "golden razzs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:23
+msgid "razz berry"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:24
+msgid "razz berries"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:25
+msgid "razz"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:26
+msgid "razzs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:29
+msgid "pinap berry"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:30
+msgid "pinap berries"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:31
+msgid "pinap"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:32
+msgid "pinaps"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:35
+msgid "nanab berry"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:36
+msgid "nanab berries"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:37
+msgid "nanab"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:38
+msgid "nanabs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:41
+msgid "pokeball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:42
+msgid "poke ball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:43
+msgid "pokeballs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:44
+msgid "poke balls"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:47
+msgid "greatball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:48
+msgid "great ball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:49
+msgid "greatballs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:50
+msgid "great balls"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:53
+msgid "ultraball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:54
+msgid "ultra ball"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:55
+msgid "ultraballs"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:56
+msgid "ultra balls"
+msgstr ""
