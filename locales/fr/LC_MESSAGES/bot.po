@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-21 10:31-0500\n"
+"POT-Creation-Date: 2018-12-28 08:27-0500\n"
 "PO-Revision-Date: 2018-12-21 10:19-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,130 +17,150 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: src/trainerheart/pokedex/item_aliases.py:11
+#: src/trainerheart/pokedex/item_aliases.py:14
 msgid "silver pinap berry"
 msgstr "baie nanana argentée"
 
-#: src/trainerheart/pokedex/item_aliases.py:12
+#: src/trainerheart/pokedex/item_aliases.py:15
 msgid "silver pinap berries"
 msgstr "baies nanana argentées"
 
-#: src/trainerheart/pokedex/item_aliases.py:13
+#: src/trainerheart/pokedex/item_aliases.py:16
 msgid "silver pinap"
 msgstr "nanana argentée"
 
-#: src/trainerheart/pokedex/item_aliases.py:14
+#: src/trainerheart/pokedex/item_aliases.py:17
 msgid "silver pinaps"
 msgstr "nanana argentées"
 
-#: src/trainerheart/pokedex/item_aliases.py:17
+#: src/trainerheart/pokedex/item_aliases.py:20
 msgid "golden razz berry"
 msgstr "baie framby dorée"
 
-#: src/trainerheart/pokedex/item_aliases.py:18
+#: src/trainerheart/pokedex/item_aliases.py:21
 msgid "golden razz berries"
 msgstr "baies framby dorées"
 
-#: src/trainerheart/pokedex/item_aliases.py:19
+#: src/trainerheart/pokedex/item_aliases.py:22
 msgid "golden razz"
 msgstr "framby dorée"
 
-#: src/trainerheart/pokedex/item_aliases.py:20
+#: src/trainerheart/pokedex/item_aliases.py:23
 msgid "golden razzs"
 msgstr "framby dorées"
 
-#: src/trainerheart/pokedex/item_aliases.py:23
+#: src/trainerheart/pokedex/item_aliases.py:26
 msgid "razz berry"
 msgstr "baie framby"
 
-#: src/trainerheart/pokedex/item_aliases.py:24
+#: src/trainerheart/pokedex/item_aliases.py:27
 msgid "razz berries"
 msgstr "baies framby"
 
-#: src/trainerheart/pokedex/item_aliases.py:25
+#: src/trainerheart/pokedex/item_aliases.py:28
 msgid "razz"
 msgstr "framby"
 
-#: src/trainerheart/pokedex/item_aliases.py:26
+#: src/trainerheart/pokedex/item_aliases.py:29
 msgid "razzs"
 msgstr "framby"
 
-#: src/trainerheart/pokedex/item_aliases.py:29
+#: src/trainerheart/pokedex/item_aliases.py:32
 msgid "pinap berry"
 msgstr "baie nanana"
 
-#: src/trainerheart/pokedex/item_aliases.py:30
+#: src/trainerheart/pokedex/item_aliases.py:33
 msgid "pinap berries"
 msgstr "baies nanana"
 
-#: src/trainerheart/pokedex/item_aliases.py:31
+#: src/trainerheart/pokedex/item_aliases.py:34
 msgid "pinap"
 msgstr "nanana"
 
-#: src/trainerheart/pokedex/item_aliases.py:32
+#: src/trainerheart/pokedex/item_aliases.py:35
 msgid "pinaps"
 msgstr "nanana"
 
-#: src/trainerheart/pokedex/item_aliases.py:35
+#: src/trainerheart/pokedex/item_aliases.py:38
 msgid "nanab berry"
 msgstr "baie nanab"
 
-#: src/trainerheart/pokedex/item_aliases.py:36
+#: src/trainerheart/pokedex/item_aliases.py:39
 msgid "nanab berries"
 msgstr "baies nanab"
 
-#: src/trainerheart/pokedex/item_aliases.py:37
+#: src/trainerheart/pokedex/item_aliases.py:40
 msgid "nanab"
 msgstr "nanab"
 
-#: src/trainerheart/pokedex/item_aliases.py:38
+#: src/trainerheart/pokedex/item_aliases.py:41
 msgid "nanabs"
 msgstr "nanab"
 
-#: src/trainerheart/pokedex/item_aliases.py:41
+#: src/trainerheart/pokedex/item_aliases.py:44
 msgid "pokeball"
 msgstr "pokéball"
 
-#: src/trainerheart/pokedex/item_aliases.py:42
+#: src/trainerheart/pokedex/item_aliases.py:45
 msgid "poke ball"
 msgstr "poké ball"
 
-#: src/trainerheart/pokedex/item_aliases.py:43
+#: src/trainerheart/pokedex/item_aliases.py:46
 msgid "pokeballs"
 msgstr "pokéballs"
 
-#: src/trainerheart/pokedex/item_aliases.py:44
+#: src/trainerheart/pokedex/item_aliases.py:47
 msgid "poke balls"
 msgstr "poké balls"
 
-#: src/trainerheart/pokedex/item_aliases.py:47
+#: src/trainerheart/pokedex/item_aliases.py:48
+#, fuzzy
+msgid "pokéball"
+msgstr "pokéball"
+
+#: src/trainerheart/pokedex/item_aliases.py:49
+#, fuzzy
+msgid "poké ball"
+msgstr "poké ball"
+
+#: src/trainerheart/pokedex/item_aliases.py:50
+#, fuzzy
+msgid "pokéballs"
+msgstr "pokéballs"
+
+#: src/trainerheart/pokedex/item_aliases.py:51
+#, fuzzy
+msgid "poké balls"
+msgstr "poké balls"
+
+#: src/trainerheart/pokedex/item_aliases.py:54
 msgid "greatball"
 msgstr "superball"
 
-#: src/trainerheart/pokedex/item_aliases.py:48
+#: src/trainerheart/pokedex/item_aliases.py:55
 msgid "great ball"
 msgstr "super ball"
 
-#: src/trainerheart/pokedex/item_aliases.py:49
+#: src/trainerheart/pokedex/item_aliases.py:56
 msgid "greatballs"
 msgstr "superballs"
 
-#: src/trainerheart/pokedex/item_aliases.py:50
+#: src/trainerheart/pokedex/item_aliases.py:57
 msgid "great balls"
 msgstr "super balls"
 
-#: src/trainerheart/pokedex/item_aliases.py:53
+#: src/trainerheart/pokedex/item_aliases.py:60
 msgid "ultraball"
 msgstr "hyperball"
 
-#: src/trainerheart/pokedex/item_aliases.py:54
+#: src/trainerheart/pokedex/item_aliases.py:61
 msgid "ultra ball"
 msgstr "hyper ball"
 
-#: src/trainerheart/pokedex/item_aliases.py:55
+#: src/trainerheart/pokedex/item_aliases.py:62
 msgid "ultraballs"
 msgstr "hyperballs"
 
-#: src/trainerheart/pokedex/item_aliases.py:56
+#: src/trainerheart/pokedex/item_aliases.py:63
 msgid "ultra balls"
 msgstr "hyper balls"
