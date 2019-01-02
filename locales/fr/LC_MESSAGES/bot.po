@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-28 08:27-0500\n"
+"POT-Creation-Date: 2019-01-02 09:01-0500\n"
 "PO-Revision-Date: 2018-12-21 10:19-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -164,3 +164,15 @@ msgstr "hyperballs"
 #: src/trainerheart/pokedex/item_aliases.py:63
 msgid "ultra balls"
 msgstr "hyper balls"
+
+#: src/trainerheart/pokedex/item_aliases.py:66
+msgid "rare candy"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:67
+msgid "rare candies"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:70
+msgid "stardust"
+msgstr ""
