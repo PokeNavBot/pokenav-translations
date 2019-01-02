@@ -19,156 +19,156 @@ msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:14
 msgid "silver pinap berry"
-msgstr ""
+msgstr "silberne Sananabeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:15
 msgid "silver pinap berries"
-msgstr ""
+msgstr "silberne Sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:16
 msgid "silver pinap"
-msgstr ""
+msgstr "silberne Sananabeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:17
 msgid "silver pinaps"
-msgstr ""
+msgstr "silberne Sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:20
 msgid "golden razz berry"
-msgstr ""
+msgstr "goldene Himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:21
 msgid "golden razz berries"
-msgstr ""
+msgstr "goldene Himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:22
 msgid "golden razz"
-msgstr ""
+msgstr "goldene Himmihbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:23
 msgid "golden razzs"
-msgstr ""
+msgstr "goldene Himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:26
 msgid "razz berry"
-msgstr ""
+msgstr "Himmihbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:27
 msgid "razz berries"
-msgstr ""
+msgstr "Himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:28
 msgid "razz"
-msgstr ""
+msgstr "Himmihbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:29
 msgid "razzs"
-msgstr ""
+msgstr "Himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:32
 msgid "pinap berry"
-msgstr ""
+msgstr "Sananabeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:33
 msgid "pinap berries"
-msgstr ""
+msgstr "Sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:34
 msgid "pinap"
-msgstr ""
+msgstr "Sananabeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:35
 msgid "pinaps"
-msgstr ""
+msgstr "Sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:38
 msgid "nanab berry"
-msgstr ""
+msgstr "Nanabbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:39
 msgid "nanab berries"
-msgstr ""
+msgstr "Nanabbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:40
 msgid "nanab"
-msgstr ""
+msgstr "Nanabbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:41
 msgid "nanabs"
-msgstr ""
+msgstr "Nanabbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:44
 msgid "pokeball"
-msgstr ""
+msgstr "Pokeball"
 
 #: src/trainerheart/pokedex/item_aliases.py:45
 msgid "poke ball"
-msgstr ""
+msgstr "Pokeball"
 
 #: src/trainerheart/pokedex/item_aliases.py:46
 msgid "pokeballs"
-msgstr ""
+msgstr "Pokebälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:47
 msgid "poke balls"
-msgstr ""
+msgstr "Pokebälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:48
 msgid "pokéball"
-msgstr ""
+msgstr "Pokéball"
 
 #: src/trainerheart/pokedex/item_aliases.py:49
 msgid "poké ball"
-msgstr ""
+msgstr "Pokéball"
 
 #: src/trainerheart/pokedex/item_aliases.py:50
 msgid "pokéballs"
-msgstr ""
+msgstr "Pokébälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:51
 msgid "poké balls"
-msgstr ""
+msgstr "Pokébälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:54
 msgid "greatball"
-msgstr ""
+msgstr "Superball"
 
 #: src/trainerheart/pokedex/item_aliases.py:55
 msgid "great ball"
-msgstr ""
+msgstr "Superball"
 
 #: src/trainerheart/pokedex/item_aliases.py:56
 msgid "greatballs"
-msgstr ""
+msgstr "Superbälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:57
 msgid "great balls"
-msgstr ""
+msgstr "Superbälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:60
 msgid "ultraball"
-msgstr ""
+msgstr "Hyperball"
 
 #: src/trainerheart/pokedex/item_aliases.py:61
 msgid "ultra ball"
-msgstr ""
+msgstr "Hyperball"
 
 #: src/trainerheart/pokedex/item_aliases.py:62
 msgid "ultraballs"
-msgstr ""
+msgstr "Hyperbälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:63
 msgid "ultra balls"
-msgstr ""
+msgstr "Hyperbälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:66
 msgid "rare candy"
-msgstr ""
+msgstr "Sonderbonbon"
 
 #: src/trainerheart/pokedex/item_aliases.py:67
 msgid "rare candies"
-msgstr ""
+msgstr "Sonderbonbons"
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
-msgstr ""
+msgstr "Sternenstaub"
