@@ -35,7 +35,7 @@ msgstr "silberne Sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:20
 msgid "golden razz berry"
-msgstr "goldene Himmihbeeren"
+msgstr "goldene Himmihbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:21
 msgid "golden razz berries"
