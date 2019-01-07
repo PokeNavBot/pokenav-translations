@@ -1,7 +1,7 @@
 # pokenav-translations
 Translations for the PokeNav discord bot and mobile application.
 
-## Supported Languages
+## Supported / Requested Languages
 
 - Danish (da)
 - Dutch (nl)
@@ -10,6 +10,7 @@ Translations for the PokeNav discord bot and mobile application.
 - German (de)
 - Portuguese (pt)
 - Spanish (es)
+- Polish (pl)
 
 ## Contributing
 
