@@ -1,174 +1,155 @@
-# German translations for PACKAGE package.
-# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2018.
-#
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-02 09:01-0500\n"
-"PO-Revision-Date: 2018-12-21 10:27-0500\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
 #: src/trainerheart/pokedex/item_aliases.py:14
 msgid "silver pinap berry"
-msgstr "silberne Sananabeere"
+msgstr "silberne sananabeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:15
 msgid "silver pinap berries"
-msgstr "silberne Sananabeeren"
+msgstr "silberne sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:16
 msgid "silver pinap"
-msgstr "silberne Sananabeere"
+msgstr "silberne sanana"
 
 #: src/trainerheart/pokedex/item_aliases.py:17
 msgid "silver pinaps"
-msgstr "silberne Sananabeeren"
+msgstr "silberne sananas"
 
 #: src/trainerheart/pokedex/item_aliases.py:20
 msgid "golden razz berry"
-msgstr "goldene Himmihbeere"
+msgstr "goldene himmihbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:21
 msgid "golden razz berries"
-msgstr "goldene Himmihbeeren"
+msgstr "goldene himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:22
 msgid "golden razz"
-msgstr "goldene Himmihbeere"
+msgstr "goldene himmih"
 
 #: src/trainerheart/pokedex/item_aliases.py:23
 msgid "golden razzs"
-msgstr "goldene Himmihbeeren"
+msgstr "goldene himmihs"
 
 #: src/trainerheart/pokedex/item_aliases.py:26
 msgid "razz berry"
-msgstr "Himmihbeere"
+msgstr "himmihbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:27
 msgid "razz berries"
-msgstr "Himmihbeeren"
+msgstr "himmihbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:28
 msgid "razz"
-msgstr "Himmihbeere"
+msgstr "himmih"
 
 #: src/trainerheart/pokedex/item_aliases.py:29
 msgid "razzs"
-msgstr "Himmihbeeren"
+msgstr "himmihs"
 
 #: src/trainerheart/pokedex/item_aliases.py:32
 msgid "pinap berry"
-msgstr "Sananabeere"
+msgstr "sananabeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:33
 msgid "pinap berries"
-msgstr "Sananabeeren"
+msgstr "sananabeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:34
 msgid "pinap"
-msgstr "Sananabeere"
+msgstr "sanana"
 
 #: src/trainerheart/pokedex/item_aliases.py:35
 msgid "pinaps"
-msgstr "Sananabeeren"
+msgstr "sananas"
 
 #: src/trainerheart/pokedex/item_aliases.py:38
 msgid "nanab berry"
-msgstr "Nanabbeere"
+msgstr "nanabbeere"
 
 #: src/trainerheart/pokedex/item_aliases.py:39
 msgid "nanab berries"
-msgstr "Nanabbeeren"
+msgstr "nanabbeeren"
 
 #: src/trainerheart/pokedex/item_aliases.py:40
 msgid "nanab"
-msgstr "Nanabbeere"
+msgstr "nanab"
 
 #: src/trainerheart/pokedex/item_aliases.py:41
 msgid "nanabs"
-msgstr "Nanabbeeren"
+msgstr "nanabs"
 
 #: src/trainerheart/pokedex/item_aliases.py:44
 msgid "pokeball"
-msgstr "Pokeball"
+msgstr "pokeball"
 
 #: src/trainerheart/pokedex/item_aliases.py:45
 msgid "poke ball"
-msgstr "Pokeball"
+msgstr "poke ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:46
 msgid "pokeballs"
-msgstr "Pokebälle"
+msgstr "pokebälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:47
 msgid "poke balls"
-msgstr "Pokebälle"
+msgstr "poke bälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:48
 msgid "pokéball"
-msgstr "Pokéball"
+msgstr "pokéball"
 
 #: src/trainerheart/pokedex/item_aliases.py:49
 msgid "poké ball"
-msgstr "Pokéball"
+msgstr "poké ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:50
 msgid "pokéballs"
-msgstr "Pokébälle"
+msgstr "pokébälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:51
 msgid "poké balls"
-msgstr "Pokébälle"
+msgstr "poké bälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:54
 msgid "greatball"
-msgstr "Superball"
+msgstr "superball"
 
 #: src/trainerheart/pokedex/item_aliases.py:55
 msgid "great ball"
-msgstr "Superball"
+msgstr "super ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:56
 msgid "greatballs"
-msgstr "Superbälle"
+msgstr "superbälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:57
 msgid "great balls"
-msgstr "Superbälle"
+msgstr "super bälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:60
 msgid "ultraball"
-msgstr "Hyperball"
+msgstr "hyperball"
 
 #: src/trainerheart/pokedex/item_aliases.py:61
 msgid "ultra ball"
-msgstr "Hyperball"
+msgstr "hyper ball"
 
 #: src/trainerheart/pokedex/item_aliases.py:62
 msgid "ultraballs"
-msgstr "Hyperbälle"
+msgstr "hyperbälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:63
 msgid "ultra balls"
-msgstr "Hyperbälle"
+msgstr "hyper bälle"
 
 #: src/trainerheart/pokedex/item_aliases.py:66
 msgid "rare candy"
-msgstr "Sonderbonbon"
+msgstr "sonderbonbon"
 
 #: src/trainerheart/pokedex/item_aliases.py:67
 msgid "rare candies"
-msgstr "Sonderbonbons"
+msgstr "sonderbonbons"
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
-msgstr "Sternenstaub"
+msgstr "sternenstaub"
