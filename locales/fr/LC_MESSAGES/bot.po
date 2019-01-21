@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-02 09:01-0500\n"
+"POT-Creation-Date: 2019-01-21 09:06-0500\n"
 "PO-Revision-Date: 2018-12-21 10:19-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -175,4 +175,20 @@ msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:71
+msgid "dust"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:74
+msgid "unknown"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:75
+msgid "u"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:76
+msgid "?"
 msgstr ""
