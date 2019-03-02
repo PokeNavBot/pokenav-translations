@@ -167,19 +167,19 @@ msgstr "hyper balls"
 
 #: src/trainerheart/pokedex/item_aliases.py:66
 msgid "rare candy"
-msgstr ""
+msgstr "super bonbon"
 
 #: src/trainerheart/pokedex/item_aliases.py:67
 msgid "rare candies"
-msgstr ""
+msgstr "super bonbons"
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
-msgstr ""
+msgstr "poussiere etoile"
 
 #: src/trainerheart/pokedex/item_aliases.py:71
 msgid "dust"
-msgstr ""
+msgstr "poussiere"
 
 #: src/trainerheart/pokedex/item_aliases.py:74
 msgid "unknown"
