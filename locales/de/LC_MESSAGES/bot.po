@@ -180,28 +180,28 @@ msgstr "sternenstaub"
 
 #: src/trainerheart/pokedex/item_aliases.py:74
 msgid "unknown"
-msgstr ""
+msgstr "unbekannt"
 
 #: src/trainerheart/pokedex/item_aliases.py:75
 msgid "u"
-msgstr ""
+msgstr "u"
 
 #: src/trainerheart/pokedex/item_aliases.py:76
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: src/trainerheart/pokedex/item_aliases.py:79
 msgid "fast tm"
-msgstr ""
+msgstr "sofort-tm"
 
 #: src/trainerheart/pokedex/item_aliases.py:80
 msgid "ftm"
-msgstr ""
+msgstr "stm"
 
 #: src/trainerheart/pokedex/item_aliases.py:82
 msgid "charge tm"
-msgstr ""
+msgstr "lade-tm"
 
 #: src/trainerheart/pokedex/item_aliases.py:83
 msgid "ctm"
-msgstr ""
+msgstr "ltm"
