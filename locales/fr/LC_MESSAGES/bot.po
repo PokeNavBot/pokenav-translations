@@ -175,36 +175,36 @@ msgstr "super bonbons"
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
-msgstr "poussiere etoile"
+msgstr "poussières étoiles"
 
 #: src/trainerheart/pokedex/item_aliases.py:71
 msgid "dust"
-msgstr "poussiere"
+msgstr "poussière"
 
 #: src/trainerheart/pokedex/item_aliases.py:74
 msgid "unknown"
-msgstr ""
+msgstr "inconnu"
 
 #: src/trainerheart/pokedex/item_aliases.py:75
 msgid "u"
-msgstr ""
+msgstr "u"
 
 #: src/trainerheart/pokedex/item_aliases.py:76
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: src/trainerheart/pokedex/item_aliases.py:79
 msgid "fast tm"
-msgstr ""
+msgstr "ct attaque immédiate"
 
 #: src/trainerheart/pokedex/item_aliases.py:80
 msgid "ftm"
-msgstr ""
+msgstr "ctam"
 
 #: src/trainerheart/pokedex/item_aliases.py:82
 msgid "charge tm"
-msgstr ""
+msgstr "ct attaque chargée"
 
 #: src/trainerheart/pokedex/item_aliases.py:83
 msgid "ctm"
-msgstr ""
+msgstr "ctac"
