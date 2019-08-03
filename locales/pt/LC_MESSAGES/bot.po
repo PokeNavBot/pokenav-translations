@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-07 07:14-0500\n"
 "PO-Revision-Date: 2018-12-21 10:27-0500\n"
-"Last-Translator: Automatically generated\n"
+"Last-Translator: Érick Moreira <erickm32@gmail.com>\n"
 "Language-Team: none\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -19,188 +19,188 @@ msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:14
 msgid "silver pinap berry"
-msgstr ""
+msgstr "Fruta Caxí prateada"
 
 #: src/trainerheart/pokedex/item_aliases.py:15
 msgid "silver pinap berries"
-msgstr ""
+msgstr "Frutas Caxí prateadas"
 
 #: src/trainerheart/pokedex/item_aliases.py:16
 msgid "silver pinap"
-msgstr ""
+msgstr "Caxí prateado"
 
 #: src/trainerheart/pokedex/item_aliases.py:17
 msgid "silver pinaps"
-msgstr ""
+msgstr "Caxís prateados"
 
 #: src/trainerheart/pokedex/item_aliases.py:20
 msgid "golden razz berry"
-msgstr ""
+msgstr "Fruta Frambo dourada"
 
 #: src/trainerheart/pokedex/item_aliases.py:21
 msgid "golden razz berries"
-msgstr ""
+msgstr "Frutas Frambo douradas"
 
 #: src/trainerheart/pokedex/item_aliases.py:22
 msgid "golden razz"
-msgstr ""
+msgstr "Frambo dourado"
 
 #: src/trainerheart/pokedex/item_aliases.py:23
 msgid "golden razzs"
-msgstr ""
+msgstr "Frambo dourados"
 
 #: src/trainerheart/pokedex/item_aliases.py:26
 msgid "razz berry"
-msgstr ""
+msgstr "Fruta Frambo"
 
 #: src/trainerheart/pokedex/item_aliases.py:27
 msgid "razz berries"
-msgstr ""
+msgstr "Frutas Frambo"
 
 #: src/trainerheart/pokedex/item_aliases.py:28
 msgid "razz"
-msgstr ""
+msgstr "Frambo"
 
 #: src/trainerheart/pokedex/item_aliases.py:29
 msgid "razzs"
-msgstr ""
+msgstr "Frambos"
 
 #: src/trainerheart/pokedex/item_aliases.py:32
 msgid "pinap berry"
-msgstr ""
+msgstr "Fruta Caxí"
 
 #: src/trainerheart/pokedex/item_aliases.py:33
 msgid "pinap berries"
-msgstr ""
+msgstr "Frutas Caxí"
 
 #: src/trainerheart/pokedex/item_aliases.py:34
 msgid "pinap"
-msgstr ""
+msgstr "Caxí"
 
 #: src/trainerheart/pokedex/item_aliases.py:35
 msgid "pinaps"
-msgstr ""
+msgstr "Caxís"
 
 #: src/trainerheart/pokedex/item_aliases.py:38
 msgid "nanab berry"
-msgstr ""
+msgstr "Fruta Nanab"
 
 #: src/trainerheart/pokedex/item_aliases.py:39
 msgid "nanab berries"
-msgstr ""
+msgstr "Frutas Nanab"
 
 #: src/trainerheart/pokedex/item_aliases.py:40
 msgid "nanab"
-msgstr ""
+msgstr "Nanab"
 
 #: src/trainerheart/pokedex/item_aliases.py:41
 msgid "nanabs"
-msgstr ""
+msgstr "Nanabes"
 
 #: src/trainerheart/pokedex/item_aliases.py:44
 msgid "pokeball"
-msgstr ""
+msgstr "PokéBola"
 
 #: src/trainerheart/pokedex/item_aliases.py:45
 msgid "poke ball"
-msgstr ""
+msgstr "Poké Bola"
 
 #: src/trainerheart/pokedex/item_aliases.py:46
 msgid "pokeballs"
-msgstr ""
+msgstr "PokéBolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:47
 msgid "poke balls"
-msgstr ""
+msgstr "Poké Bolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:48
 msgid "pokéball"
-msgstr ""
+msgstr "PokéBola"
 
 #: src/trainerheart/pokedex/item_aliases.py:49
 msgid "poké ball"
-msgstr ""
+msgstr "Poké Bola"
 
 #: src/trainerheart/pokedex/item_aliases.py:50
 msgid "pokéballs"
-msgstr ""
+msgstr "Poké Bolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:51
 msgid "poké balls"
-msgstr ""
+msgstr "Poké Bolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:54
 msgid "greatball"
-msgstr ""
+msgstr "GrandeBola"
 
 #: src/trainerheart/pokedex/item_aliases.py:55
 msgid "great ball"
-msgstr ""
+msgstr "Grande Bola"
 
 #: src/trainerheart/pokedex/item_aliases.py:56
 msgid "greatballs"
-msgstr ""
+msgstr "GrandeBolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:57
 msgid "great balls"
-msgstr ""
+msgstr "Grande Bolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:60
 msgid "ultraball"
-msgstr ""
+msgstr "UltraBola"
 
 #: src/trainerheart/pokedex/item_aliases.py:61
 msgid "ultra ball"
-msgstr ""
+msgstr "Ultra Bola"
 
 #: src/trainerheart/pokedex/item_aliases.py:62
 msgid "ultraballs"
-msgstr ""
+msgstr "UltraBolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:63
 msgid "ultra balls"
-msgstr ""
+msgstr "Ultra Bolas"
 
 #: src/trainerheart/pokedex/item_aliases.py:66
 msgid "rare candy"
-msgstr ""
+msgstr "Doce Raro"
 
 #: src/trainerheart/pokedex/item_aliases.py:67
 msgid "rare candies"
-msgstr ""
+msgstr "Doces Raros"
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
-msgstr ""
+msgstr "Poeira Estelar"
 
 #: src/trainerheart/pokedex/item_aliases.py:71
 msgid "dust"
-msgstr ""
+msgstr "Poeira"
 
 #: src/trainerheart/pokedex/item_aliases.py:74
 msgid "unknown"
-msgstr ""
+msgstr "Desconhecido"
 
 #: src/trainerheart/pokedex/item_aliases.py:75
 msgid "u"
-msgstr ""
+msgstr "U"
 
 #: src/trainerheart/pokedex/item_aliases.py:76
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: src/trainerheart/pokedex/item_aliases.py:79
 msgid "fast tm"
-msgstr ""
+msgstr "MT ataque ágil"
 
 #: src/trainerheart/pokedex/item_aliases.py:80
 msgid "ftm"
-msgstr ""
+msgstr "mtaa"
 
 #: src/trainerheart/pokedex/item_aliases.py:82
 msgid "charge tm"
-msgstr ""
+msgstr "MT ataque carregado"
 
 #: src/trainerheart/pokedex/item_aliases.py:83
 msgid "ctm"
-msgstr ""
+msgstr "mtac"
