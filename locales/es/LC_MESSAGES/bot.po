@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-07 07:14-0500\n"
+"POT-Creation-Date: 2020-03-09 18:56-0400\n"
 "PO-Revision-Date: 2018-12-21 10:27-0500\n"
 "Last-Translator: Mathias Rodriguez <mathias.rodriguez@gmail.com>\n"
 "Language-Team: none\n"
@@ -194,17 +194,61 @@ msgid "?"
 msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:79
-msgid "fast tm"
+msgid "lure"
 msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:80
-msgid "ftm"
+msgid "lure module"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:81
+msgid "mossy"
 msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:82
-msgid "charge tm"
+msgid "mossy lure"
 msgstr ""
 
 #: src/trainerheart/pokedex/item_aliases.py:83
+msgid "mossy lure module"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:84
+msgid "glacial"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:85
+msgid "glacial lure"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:86
+msgid "glacial lure module"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:87
+msgid "magnetic"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:88
+msgid "magnetic lure"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:89
+msgid "magnetic lure module"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:92
+msgid "fast tm"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:93
+msgid "ftm"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:95
+msgid "charge tm"
+msgstr ""
+
+#: src/trainerheart/pokedex/item_aliases.py:96
 msgid "ctm"
 msgstr ""
