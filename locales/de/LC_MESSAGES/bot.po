@@ -192,47 +192,47 @@ msgstr "?"
 
 #: src/trainerheart/pokedex/item_aliases.py:79
 msgid "lure"
-msgstr ""
+msgstr "Lock"
 
 #: src/trainerheart/pokedex/item_aliases.py:80
 msgid "lure module"
-msgstr ""
+msgstr "Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:81
 msgid "mossy"
-msgstr ""
+msgstr "Moos"
 
 #: src/trainerheart/pokedex/item_aliases.py:82
 msgid "mossy lure"
-msgstr ""
+msgstr "Moos-Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:83
 msgid "mossy lure module"
-msgstr ""
+msgstr "Moos-Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:84
 msgid "glacial"
-msgstr ""
+msgstr "Gletscher"
 
 #: src/trainerheart/pokedex/item_aliases.py:85
 msgid "glacial lure"
-msgstr ""
+msgstr "Gletscher-Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:86
 msgid "glacial lure module"
-msgstr ""
+msgstr "Gletscher-Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:87
 msgid "magnetic"
-msgstr ""
+msgstr "Magnet"
 
 #: src/trainerheart/pokedex/item_aliases.py:88
 msgid "magnetic lure"
-msgstr ""
+msgstr "Magnet-Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:89
 msgid "magnetic lure module"
-msgstr ""
+msgstr "Magnet-Lockmodul"
 
 #: src/trainerheart/pokedex/item_aliases.py:92
 msgid "fast tm"
