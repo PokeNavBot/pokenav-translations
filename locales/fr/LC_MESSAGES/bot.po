@@ -175,7 +175,7 @@ msgstr "super bonbons"
 
 #: src/trainerheart/pokedex/item_aliases.py:70
 msgid "stardust"
-msgstr "poussières étoiles"
+msgstr "poussière d'étoiles"
 
 #: src/trainerheart/pokedex/item_aliases.py:71
 msgid "dust"
@@ -195,47 +195,47 @@ msgstr "?"
 
 #: src/trainerheart/pokedex/item_aliases.py:79
 msgid "lure"
-msgstr ""
+msgstr "leurre"
 
 #: src/trainerheart/pokedex/item_aliases.py:80
 msgid "lure module"
-msgstr ""
+msgstr "module leurre"
 
 #: src/trainerheart/pokedex/item_aliases.py:81
 msgid "mossy"
-msgstr ""
+msgstr "moussu"
 
 #: src/trainerheart/pokedex/item_aliases.py:82
 msgid "mossy lure"
-msgstr ""
+msgstr "leurre moussu"
 
 #: src/trainerheart/pokedex/item_aliases.py:83
 msgid "mossy lure module"
-msgstr ""
+msgstr "module leurre moussu"
 
 #: src/trainerheart/pokedex/item_aliases.py:84
 msgid "glacial"
-msgstr ""
+msgstr "glacial"
 
 #: src/trainerheart/pokedex/item_aliases.py:85
 msgid "glacial lure"
-msgstr ""
+msgstr "leurre glacial"
 
 #: src/trainerheart/pokedex/item_aliases.py:86
 msgid "glacial lure module"
-msgstr ""
+msgstr "module leurre glacial"
 
 #: src/trainerheart/pokedex/item_aliases.py:87
 msgid "magnetic"
-msgstr ""
+msgstr "magnétique"
 
 #: src/trainerheart/pokedex/item_aliases.py:88
 msgid "magnetic lure"
-msgstr ""
+msgstr "leurre magnétique"
 
 #: src/trainerheart/pokedex/item_aliases.py:89
 msgid "magnetic lure module"
-msgstr ""
+msgstr "module leurre magnétique"
 
 #: src/trainerheart/pokedex/item_aliases.py:92
 msgid "fast tm"
